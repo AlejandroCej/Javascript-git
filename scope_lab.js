@@ -26,6 +26,22 @@ function show(){
 }
 show();
 
-console.log(functionVar);
-console.log(functionLet);
-console.log(functionConst);
+//console.log(functionVar);
+//console.log(functionLet);
+//console.log(functionConst);
+
+//Practice task
+
+{
+    var pracVar = "Rick";
+    let pracLet = "john";
+    const pracConst = "saul";
+    //call
+    //console.log(pracVar);
+    //console.log(pracLet);
+    //console.log(pracConst);
+}
+
+console.log(pracVar);
+console.log(pracLet);
+console.log(pracConst);
